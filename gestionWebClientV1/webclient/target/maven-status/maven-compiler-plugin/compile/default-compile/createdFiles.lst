@@ -1,0 +1,9 @@
+eu\ensup\servlets\ViewStudentServlet.class
+eu\ensup\servlets\StudentCourseServlet.class
+eu\ensup\servlets\AddStudentServlet.class
+eu\ensup\servlets\EditStudentServlet.class
+eu\ensup\servlets\ConnectionServlet.class
+eu\ensup\servlets\DeleteStudentServlet.class
+eu\ensup\servlets\StudentServlet.class
+eu\ensup\servlets\ModifyStudentServlet.class
+eu\ensup\servlets\SearchStudentServlet.class
